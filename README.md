@@ -1,6 +1,6 @@
 ### Olá, sou a Louise Queiroz!
 
-- 🌱 Estudando Python e Java
+- 🌱 Estudando Python e Javascript
 - 🔭 Bolsista do PET Computação
 - 💭 Pesquisando sobre pensamento computacional
 - 📚 Estudante de Ciência da Computação na UFPel.
