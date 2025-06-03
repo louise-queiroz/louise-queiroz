@@ -1,7 +1,7 @@
 ### Olá, sou a Louise Queiroz!
 
 - 🌱 Estudando Python, dados e Machine Learning
-- 🔭 Estagiária de Ciência de Dados
+- 🔭 Cientista de Dados Júnior
 - 💭 Pesquisando sobre análise de sentimentos
 - 📚 Estudante de Ciência da Computação na UFPel.
 
